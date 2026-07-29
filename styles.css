@@ -227,7 +227,6 @@ footer a {
   display: flex;
   gap: 8px;
   padding: 6px 0;
-  font-size: 14px;
 }
 
 .info-list dt {
@@ -238,11 +237,6 @@ footer a {
 .info-list dd {
   margin: 0;
   font-weight: 600;
-}
-
-.card p {
-  font-size: 14px;
-  color: var(--color-text-muted);
 }
 
 .card p strong {
